@@ -49,6 +49,8 @@ public class Topic_01_Check_Environment {
     public void TC_04() {
     }
 
+    public void TC_05() {
+    }
     @AfterClass
     public void afterClass() {
         driver.quit();
